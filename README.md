@@ -13,6 +13,6 @@ Currently, two official plugins are available:
  3. Wrap provider outside app component, so we can use it global
  4. Use reducer function in component by using useSelector, useDispatch : 
   + useSelector to get current status
-  + useDispatch to update state
+  + useDispatch to update state.
 
 
